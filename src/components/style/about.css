@@ -1,0 +1,31 @@
+
+.About{
+    padding: 30px;
+   background: aliceblue;
+    font-family: 'Roboto', sans-serif;
+  
+    
+    
+}
+
+.space {
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.writingspace{
+      margin-right: 200px;
+   
+    }
+
+
+.btn{
+   background-color: lightgray !important;
+   color: white;
+   border-radius: 10px;
+  
+}
+
+.download{
+    font-size: 20px;
+    padding: 10px;;
+}

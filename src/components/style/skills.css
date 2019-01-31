@@ -1,0 +1,25 @@
+.Skills{
+    padding: 30px;
+    background: aliceblue;
+    text-align: center;
+}
+.space {
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.uls {
+    margin-right: 10%;
+}
+
+ul{
+   list-style-type: none;
+   text-align: center;
+   margin-left: 15%;
+
+   padding: 0%;
+   overflow: hidden;
+   display: inline-block;
+}
+li{ 
+    color: black;
+}

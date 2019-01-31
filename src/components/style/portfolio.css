@@ -1,0 +1,26 @@
+.Portfolio{
+    padding: 30px;
+    background: aliceblue;
+    text-align: center;
+}
+
+.screenshots{
+    height: 250px;
+    width:350px;
+  
+    margin: 10px;
+    
+}
+
+.portfoliocode {
+
+        background-color: lightblue;
+        padding: 10px;
+        border-radius: 5px;
+        text-decoration: none;
+        text-align: center;
+        margin-left: 10px;
+       
+       
+
+}

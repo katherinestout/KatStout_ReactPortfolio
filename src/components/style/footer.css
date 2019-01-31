@@ -1,0 +1,15 @@
+.Footer{
+    background-color: lightgray;
+    color: black;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    padding: 30px;
+   
+}
+
+.footerspace {
+
+        margin-left: 60px;
+        margin-right: 60px;
+
+}
