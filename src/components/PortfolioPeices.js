@@ -51,7 +51,8 @@ class PortfolioPeices extends Component {
         <BigProjectLinks/>
       </div>
 
-      <button className="portfoliocode"> <a href="https://github.com/katherinestout/portfolio">
+      <button className="portfoliocode"> 
+      <a href="https://github.com/katherinestout/KatStout_ReactPortfolio">
       Click here to see my Portfolio code!</a></button>
       </div>
       </div>
