@@ -29,12 +29,14 @@ class About extends Component {
         
 
         <p>Download my resume!</p>
-        <button type="button" className="btn btn">
         <a href ="https://drive.google.com/file/d/1wGM16dNAdwz4wTbyKs-NF4n3FRSIjccj/view?usp=sharing">
+        <button type="button" className="btn btn">
+        
         Resume 
-        </a>
+   
          <i className="fas fa-file-download download"></i>
         </button>
+        </a>
         </div>
         </div>
       </div>

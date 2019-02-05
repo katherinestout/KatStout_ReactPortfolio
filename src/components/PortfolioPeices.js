@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import  "./style/portfolio.css";
 import clevercap from "./screenshots/clevercap.png";
-import crystal from "./screenshots/crystal.png";
+import doctorwho from "./screenshots/doctorwho.png";
 import drinkerator from "./screenshots/drinkerator.png";
 import todo from "./screenshots/todolist.png";
 import wordguess from "./screenshots/wordguess.png";
@@ -21,7 +21,7 @@ class PortfolioPeices extends Component {
       <div className="space">
       <h2> Portfolio Projects  </h2> <hr/>
       <div className="projects">
-        <a href ="https://katherinestout.github.io/PoliticsGame/">
+        <a href ="https://katherinestout.github.io/FloralWordGame/">
         <img src={wordguess} alt="wordguess" className="screenshots"></img>
         </a>
    
@@ -29,8 +29,8 @@ class PortfolioPeices extends Component {
         <img src={todo} alt="todo" className="screenshots" ></img>
         </a>
       
-        <a href="https://katherinestout.github.io/crystalgame/">
-        <img src={crystal} alt="crystal" className="screenshots" ></img>
+        <a href="https://young-dusk-20952.herokuapp.com/">
+        <img src={doctorwho} alt="doctorwho" className="screenshots" ></img>
         </a>
    
         <SmallProjectLinks/>

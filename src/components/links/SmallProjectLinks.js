@@ -10,12 +10,12 @@ const SmallProjectLinks = () => {
             <ul className="smallpageslinksul">
                 <li>
                 <button className="button">
-                <a href ="https://katherinestout.github.io/PoliticsGame/">
+                <a href ="https://katherinestout.github.io/FloralWordGame/">
                     Deployed
                     </a>
                     </button>
                     <button className="button"> 
-                    <a href ="https://github.com/katherinestout/PoliticsGame">
+                    <a href ="https://github.com/katherinestout/FloralWordGame">
                     Code </a></button>
                     </li>
 
@@ -30,10 +30,10 @@ const SmallProjectLinks = () => {
                     </li>
 
                 <li><button className="button"> 
-                    <a href="https://katherinestout.github.io/crystalgame/">
+                    <a href="https://young-dusk-20952.herokuapp.com/">
                     Deployed</a></button>
                     <button className="button">
-                    <a href="https://github.com/katherinestout/crystalgame">
+                    <a href="https://github.com/katherinestout/DoctorWho_ReactGame">
                    Code
                    </a>
                     </button>
