@@ -3,7 +3,7 @@ import  "./style/portfolio.css";
 import clevercap from "./screenshots/clevercap.png";
 import doctorwho from "./screenshots/doctorwho.png";
 import drinkerator from "./screenshots/drinkerator.png";
-import todo from "./screenshots/todolist.png";
+import photography from "./screenshots/photography.png";
 import wordguess from "./screenshots/wordguess.png";
 import projectPlanner from "./screenshots/ProjectPlanner.png";
 import BigProjectLinks from './links/BigProjectLinks';
@@ -25,8 +25,8 @@ class PortfolioPeices extends Component {
         <img src={wordguess} alt="wordguess" className="screenshots"></img>
         </a>
    
-        <a href="https://katherinestout.github.io/Todo_Redux/">
-        <img src={todo} alt="todo" className="screenshots" ></img>
+        <a href="https://tranquil-wildwood-40776.herokuapp.com/home">
+        <img src={photography} alt="photography" className="screenshots" ></img>
         </a>
       
         <a href="https://young-dusk-20952.herokuapp.com/">
