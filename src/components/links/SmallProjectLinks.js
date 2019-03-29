@@ -20,10 +20,11 @@ const SmallProjectLinks = () => {
                     </li>
 
                 <li><button className="button">
-                    <a href="https://github.com/katherinestout/PhotoWebsite_PayPal_React">
+           
+                    <a href="https://tranquil-wildwood-40776.herokuapp.com/home">
                     Deployed</a></button>
                     <button className="button">
-                    <a href="https://tranquil-wildwood-40776.herokuapp.com/home">
+                    <a href="https://github.com/katherinestout/PhotoWebsite_PayPal_React">
                     Code
                     </a>
                     </button>
