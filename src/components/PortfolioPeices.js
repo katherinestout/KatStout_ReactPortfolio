@@ -5,7 +5,6 @@ import doctorwho from "./screenshots/doctorwho.png";
 import drinkerator from "./screenshots/drinkerator.png";
 import photography from "./screenshots/photography.png";
 import wordguess from "./screenshots/wordguess.png";
-import projectPlanner from "./screenshots/ProjectPlanner.png";
 import BigProjectLinks from './links/BigProjectLinks';
 import SmallProjectLinks from './links/SmallProjectLinks';
 
@@ -34,10 +33,6 @@ class PortfolioPeices extends Component {
         </a>
    
         <SmallProjectLinks/>
-    
-        <a href="https://katprojectplan.firebaseapp.com/signin">
-        <img src={projectPlanner} alt="projectPlanner" className="screenshots"></img>
-        </a>
 
         <a href="https://katherinestout.github.io/Drinkerator/" >
         <img src={drinkerator} alt="drinkerator" className="screenshots"></img>

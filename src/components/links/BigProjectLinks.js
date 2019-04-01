@@ -9,17 +9,7 @@ const BigProjectLinks = () => {
 
        <div className="smallpageslinks">
             <ul className="smallpageslinksul">
-                <li>
-                <button className="button">
-                <a href ="https://katprojectplan.firebaseapp.com/signin">
-                    Deployed
-                    </a>
-                    </button>
-                    <button className="button"> 
-                    <a href = "https://github.com/katherinestout/FirebaseReactRedux">
-                    Code </a></button>
-                    </li>
-
+            
                 <li><button className="button">
                     <a href="https://katherinestout.github.io/Drinkerator/">
                     Deployed</a></button>
