@@ -18,7 +18,7 @@ class Skills extends Component {
       <li>SASS </li>
       <li> Javascript</li>
       <li> jQuery</li>
-      <li> Git </li>
+    
        </ul>
        <ul>
       <li>Heroku </li>
@@ -26,17 +26,15 @@ class Skills extends Component {
       <li> Node.js </li>
       <li> React.js </li>
       <li>Redux </li>
-      <li> Materialize.css</li>
-      <li> Moment.js </li>
+    
       </ul>
       <ul>
-      <li> Photoshop </li>
-      <li> Graphic Design </li>
-      <li> Photography </li>
-      <li>  Communications Law</li>
+      <li> Materialize.css</li>
+      <li> Moment.js </li>
       <li> Firebase </li>
       <li> MongoDB-Atlas</li>
       <li>  Express</li>
+      <li> Git </li>
     </ul>
     </div>
     </div>
