@@ -24,7 +24,7 @@ class About extends Component {
         While I dappled in coding for a few years, I finally took the plunge to 
         advance my career in 2018 when I earned my Full Stack Certificate from 
         George Washington University (GW). At GW I found the same sense of reward and 
-        creativity as I have always persued in photography. 
+        creativity as I have always pursued in photography. 
         </p>
         
 
