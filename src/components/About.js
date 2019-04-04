@@ -7,9 +7,9 @@ class About extends Component {
     
     return (
       <div className="About" id="about">
-       <div className="space">
+       <div>
        
-      <h2>Get to know me</h2>
+      <h2>About Me</h2>
       <hr/>
     
         <div className="writingspace">

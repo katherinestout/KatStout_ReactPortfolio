@@ -2,19 +2,21 @@
     background: darkslategray;
     color: aliceblue;
     font-family: 'Roboto', sans-serif; 
+   
 
 }
 
 .Main{
-    margin-left: 100px;
-    padding-top: 70px;
+    margin-left: 15%;
     padding-bottom: 70px;
     text-align: left;
+    height: 500px;
 }
 
 
 .Hello{
-    font-size: 150px;
+    font-size: 200px;
+    padding-top: 40px;
    
 }
 .Name{
@@ -22,13 +24,25 @@
     color:lightblue;
 }
 
-.profilepic {
-    width: 300px;
-    height: 300px;
-    margin-top: 0;
-    margin-right: 20%;
-    float: right;
-    top: 0%;
-    border-radius: 50%;
 
-}
+.pointer {
+    margin-left: 1px;
+    width: 40%;
+    height: 500px;
+    position: relative;
+    background: lightblue;
+    float: right;
+   
+  }
+  .pointer:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 0;
+    border-left: 300px solid darkslategray;
+    border-top: 250px solid transparent;
+    border-bottom: 250px solid transparent;
+
+  }
