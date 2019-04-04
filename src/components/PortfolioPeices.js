@@ -9,7 +9,18 @@ import wordguess from "./screenshots/wordguess.png";
 //import SmallProjectLinks from './links/SmallProjectLinks';
 
 
-
+/*
+    <div className="row">
+      <div className="column">
+      <div className="pics">
+      </div>
+      </div>
+      <div className="column">
+      <div className="description">
+      </div>
+      </div>
+      </div>
+*/
 
 
 class PortfolioPeices extends Component {
@@ -17,81 +28,111 @@ class PortfolioPeices extends Component {
     return (
 
       <div className="Portfolio">
-
-      
       <h2 className="title"> Portfolio Projects  </h2> <hr/>
-      
-      <div className="container-1">
-      <div className="box-1 container-1-box">
-        <a href ="https://katherinestout.github.io/FloralWordGame/">
+      <div className="portfolio-wrapper">
+
+<div className="row">
+<div className="column">
+<div className="box-1">
+<a href ="https://katherinestout.github.io/FloralWordGame/">
         <img src={wordguess} alt="wordguess" className="screenshots"></img>
         </a>
-        <p>Hangman Style Game</p>
+</div>
+</div>
+<div className="column">
+<div className="box-1-description">
+<p>Hangman Style Game</p>
         <ul className="portfolio-ul">
           <li>
            Hangman Style Game
           </li>
         </ul>
-        </div>
+</div>
+</div>
+</div>
 
-        <div className="box-2 container-1-box">
-        <a href="https://tranquil-wildwood-40776.herokuapp.com/home">
-        <img src={photography} alt="photography" className="screenshots" ></img>
-        </a>
-        <p>Photography Website</p>
-        <ul className="portfolio-ul">
-          <li>
-           Photography Website
-          </li>
-        </ul>
-        </div>
-
-        <div className="box-3 container-1-box">
-        <a href="https://young-dusk-20952.herokuapp.com/">
+<div className="row">
+<div className="column">
+<div className="box-2">
+<a href="https://young-dusk-20952.herokuapp.com/">
         <img src={doctorwho} alt="doctorwho" className="screenshots" ></img>
         </a>
-        <p>Doctor Who Memory Game</p>
+</div>
+</div>
+<div className="column">
+<div className="box-2-description">
+<p>Doctor Who Memory Game</p>
         <ul className="portfolio-ul">
           <li>
            Memory Game
           </li>
         </ul>
-        </div>
-       
-        <div className="box-4 container-1-box">
-        <a href="https://katherinestout.github.io/Drinkerator/" >
+</div>
+</div>
+</div>
+<div className="row">
+<div className="column">
+<div className="box-3">
+<a href="https://katherinestout.github.io/Drinkerator/" >
         <img src={drinkerator} alt="drinkerator" className="screenshots"></img>
         </a>
-        <p>Drinkerator</p>
+</div>
+</div>
+<div className="column">
+<div className="box-3-description">
+   <p>Drinkerator</p>
         <ul className="portfolio-ul">
           <li>
            Drinkerator
           </li>
         </ul>
-
-        </div>
-          
-        <div className="box-5 container-1-box">
-         <a href="https://damp-mountain-40245.herokuapp.com/login">
+</div>
+</div>
+</div>
+<div className="row">
+<div className="column">
+<div className="box-4">
+<a href="https://tranquil-wildwood-40776.herokuapp.com/home">
+        <img src={photography} alt="photography" className="screenshots" ></img>
+        </a>
+</div>
+</div>
+<div className="column">
+<div className="box-4-description">
+<p>Photography Website</p>
+        <ul className="portfolio-ul">
+          <li>
+           Photography Website
+          </li>
+        </ul>
+</div>
+</div>
+</div>
+<div className="row">
+<div className="column">
+<div className="box-5">
+<a href="https://damp-mountain-40245.herokuapp.com/login">
         <img src={clevercap} alt="clevercap" className="screenshots" ></img>
         </a>
-        <p>CleverCap</p>
+</div>
+</div>
+<div className="column">
+<div className="box-5-description">
+<p>CleverCap</p>
         <ul className="portfolio-ul">
           <li>
            CleverCap
           </li>
         </ul>
-
-         </div>
-          
-      <div className="box-6">
-          <button className="portfoliocode"> 
+</div>
+</div>
+</div>
+<button className="portfoliocode"> 
       <a href="https://github.com/katherinestout/KatStout_ReactPortfolio">
       Portfolio Code</a></button>
+
+
       </div>
-         
-      </div>
-      
       </div>
 
      
