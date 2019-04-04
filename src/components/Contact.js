@@ -21,9 +21,7 @@ class Contact extends Component {
       <i className="fab fa-github"></i> 
     <a href ="https://www.github.com/katherinestout">
     My Repositories</a>
-    <i className="fas fa-phone"></i> 
-   3013512408
-     
+  
     
     </p> 
     </div>
