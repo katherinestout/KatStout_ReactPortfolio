@@ -11,7 +11,7 @@ class Skills extends Component {
       <h2 className="title">Technical Skills</h2>
       <hr/>
 <div className="uls">
-    <ul>
+    <ul className="skill-list">
       <li>HTML </li>
       <li> CSS </li>
       <li> Bootstrap</li>
@@ -20,7 +20,7 @@ class Skills extends Component {
       <li> jQuery</li>
     
        </ul>
-       <ul>
+       <ul className="skill-list">
       <li>Heroku </li>
       <li> API's and AJAX</li>
       <li> Node.js </li>
@@ -28,7 +28,7 @@ class Skills extends Component {
       <li>Redux </li>
     
       </ul>
-      <ul>
+      <ul className="skill-list">
       <li> Materialize.css</li>
       <li> Moment.js </li>
       <li> Firebase </li>
