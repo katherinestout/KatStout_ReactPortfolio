@@ -5,25 +5,49 @@ import "./style/contact.css";
 
 class Contact extends Component {
   render() {
+
+    /*
+    <div className="row">
+      <div className="column">
+      <div className="pics">
+      </div>
+      </div>
+      <div className="column">
+      <div className="description">
+      </div>
+      </div>
+      </div>
+*/
+
     return (
     <div className="Contact" id="contact">
-      <h2>Contact Me</h2>
-    <div className="icons">
-    <p>
+  
+
+    <div className="title-box">
+      <h2>Contact Me:</h2>
+      </div>
+   
+    <div className="container-contact">
+   <div className="contact-box">
     <i className="fas fa-envelope-open"></i>  
-    kjs14@hood.edu
+    <p>   kjs14@hood.edu</p>
+ 
+    </div>
+
+    <div className="contact-box">
     <i className="fab fa-linkedin"></i> 
     <a href="https://www.linkedin.com/in/katherinejstout/">
-    LinkedIn Profile</a>
-      
-    <br></br>
-      
+   <p>LinkedIn Profile</p> 
+   </a>
+    </div>
+
+      <div className="contact-box">
       <i className="fab fa-github"></i> 
     <a href ="https://www.github.com/katherinestout">
-    My Repositories</a>
-  
+    <p>My Repositories</p>
+    </a>
     
-    </p> 
+    </div>
     </div>
    
 

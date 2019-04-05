@@ -9,18 +9,7 @@ import wordguess from "./screenshots/wordguess.png";
 //import SmallProjectLinks from './links/SmallProjectLinks';
 
 
-/*
-    <div className="row">
-      <div className="column">
-      <div className="pics">
-      </div>
-      </div>
-      <div className="column">
-      <div className="description">
-      </div>
-      </div>
-      </div>
-*/
+
 
 
 class PortfolioPeices extends Component {
@@ -127,13 +116,16 @@ class PortfolioPeices extends Component {
 </div>
 </div>
 </div>
-<button className="portfoliocode"> 
+
+      <div className="column">
+      <button className="portfoliocode"> 
       <a href="https://github.com/katherinestout/KatStout_ReactPortfolio">
       Portfolio Code</a></button>
+      </div>
 
 
-      </div>
-      </div>
+</div>
+</div>
 
      
 
