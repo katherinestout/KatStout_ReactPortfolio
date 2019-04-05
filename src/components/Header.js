@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import "./style/header.css";
 //import profilepic from './profile/profilepic.JPG'
 
+//<div className="Emphasis Hello animated slideInLeft">Hello! </div> 
+
 class Header extends Component {
   render() {
     return (
@@ -9,9 +11,7 @@ class Header extends Component {
     <div className="Main">
   
 
- <div className="pointer"></div>
-    <h1> <div className="Emphasis Hello animated slideInLeft">Hello! </div> 
-
+    <h1> 
       <div className="Name animated slideInLeft">
         I am Katherine Stout. 
         </div>

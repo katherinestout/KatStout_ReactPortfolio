@@ -6,19 +6,6 @@ import "./style/contact.css";
 class Contact extends Component {
   render() {
 
-    /*
-    <div className="row">
-      <div className="column">
-      <div className="pics">
-      </div>
-      </div>
-      <div className="column">
-      <div className="description">
-      </div>
-      </div>
-      </div>
-*/
-
     return (
     <div className="Contact" id="contact">
   

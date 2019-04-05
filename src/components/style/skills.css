@@ -1,26 +1,41 @@
 .Skills{
-    padding: 30px;
+
     background: aliceblue;
     text-align: center;
+    padding: 5%;
 }
-.space {
-    margin-left: 60px;
-    margin-right: 60px;
+.skills-wrapper{
+    margin-left: 20%;
+    margin-right: 20%;
 }
-.uls {
-    margin-right: 10%;
-}
+
+
 
 ul.skill-list {
    list-style-type: none;
    text-align: center;
-   margin-left: 15%;
-
-   padding: 0%;
    overflow: hidden;
    display: inline-block;
 }
 li{ 
     color: black;
 }
+@media(min-width:468px){
+    .container-skills{
+        display: flex; 
+        justify-content: space-between;
+    
+    }
+}
+
+
+.skill-box{
+    flex-basis: 25%;
+    text-align: center;
+
+}
+.title-box-skill{
+text-align: center;
+}
+
 

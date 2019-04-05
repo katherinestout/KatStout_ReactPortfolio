@@ -17,7 +17,8 @@ class PortfolioPeices extends Component {
     return (
 
       <div className="Portfolio">
-      <h2 className="title"> Portfolio Projects  </h2> <hr/>
+      <h2 className="title-box-portfolio"> Portfolio Projects  
+      </h2> <hr/>
       <div className="portfolio-wrapper">
 
 <div className="row">
