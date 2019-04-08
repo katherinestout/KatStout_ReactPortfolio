@@ -6,7 +6,7 @@ class About extends Component {
   render() {
     
     return (
-      <div className="About">
+      <div className="About" id="about">
        
       <h2 className="about-title">About Me</h2>
       <hr/>

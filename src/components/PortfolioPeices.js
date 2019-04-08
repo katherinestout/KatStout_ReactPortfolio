@@ -12,7 +12,7 @@ class PortfolioPeices extends Component {
   render() {
     return (
 
-      <div className="Portfolio">
+      <div className="Portfolio" id="portfolio">
       <h2 className="title-box-portfolio"> Portfolio Projects  
       </h2> <hr/>
       <div className="portfolio-wrapper">

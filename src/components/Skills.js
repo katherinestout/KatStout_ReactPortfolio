@@ -5,7 +5,7 @@ import "./style/skills.css";
 class Skills extends Component {
   render() {
     return (
-      <div className="Skills">
+      <div className="Skills" id="skills">
 
       <h2 className="title-box-skill">Technical Skills</h2>
       <hr/>
