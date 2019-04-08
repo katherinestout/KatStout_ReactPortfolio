@@ -1,36 +1,47 @@
 import React, { Component } from 'react';
 import "./style/navbar.css";
 
+   /*
+    <div className="row">
+      <div className="column">
+      <div className="pics">
+      </div>
+      </div>
+      <div className="column">
+      <div className="description">
+      </div>
+      </div>
+      </div>
+*/
+
 class NavBar extends Component {
   render() {
     return (
-      <div className="NavBar">
-      <nav className="navbar navbar-expand-lg bg navbar-collapse ml-auto">
-      <div className="container-fluid">
-
-      <ul className="nav navbar">
-      <li className="nav-item">
+      <div className="NavBar bar">
+      <div className="thisContainer">
+  
+      <div className="thisBox">
       <a href="#about">
       ABOUT 
       </a>
-      </li>
-      <li className="nav-item">
+      </div>
+      <div className="thisBox">
       <a href="#skills">
       SKILLS
       </a>
-      </li>
-      <li className="nav-item">
+      </div>
+      <div className="thisBox">
       <a href="#portfolio">
       PORTFOLIO</a>
-      </li>
-      <li className="nav-item">
+      </div>
+      <div className="thisBox">
       <a href="#contact">
       CONTACT
       </a>
-      </li>
-      </ul>
-</div>
-      </nav>
+      </div>
+     
+  
+      </div>
       </div>
     );
   }

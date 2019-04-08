@@ -8,10 +8,6 @@ import wordguess from "./screenshots/wordguess.png";
 //import BigProjectLinks from './links/BigProjectLinks';
 //import SmallProjectLinks from './links/SmallProjectLinks';
 
-
-
-
-
 class PortfolioPeices extends Component {
   render() {
     return (

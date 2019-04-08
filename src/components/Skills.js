@@ -1,18 +1,6 @@
 import React, { Component } from 'react';
 import "./style/skills.css";
 
-   /*
-    <div className="row">
-      <div className="column">
-      <div className="pics">
-      </div>
-      </div>
-      <div className="column">
-      <div className="description">
-      </div>
-      </div>
-      </div>
-*/
 
 class Skills extends Component {
   render() {
