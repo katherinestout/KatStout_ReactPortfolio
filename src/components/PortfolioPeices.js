@@ -5,8 +5,6 @@ import doctorwho from "./screenshots/doctorwho.png";
 import drinkerator from "./screenshots/drinkerator.png";
 import photography from "./screenshots/photography.png";
 import wordguess from "./screenshots/wordguess.png";
-//import BigProjectLinks from './links/BigProjectLinks';
-//import SmallProjectLinks from './links/SmallProjectLinks';
 
 class PortfolioPeices extends Component {
   render() {
@@ -85,7 +83,7 @@ class PortfolioPeices extends Component {
 </div>
 <div className="column">
 <div className="box-4-description">
-<p>Photography Website</p>
+<p>Jane Newport Photography Website</p>
         <ul className="portfolio-ul">
           <li>
            Photography Website
