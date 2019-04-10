@@ -3,46 +3,28 @@
     color: aliceblue;
     font-family: 'Roboto', sans-serif; 
    
+   
 
 }
 
 .Main{
 
-    padding-bottom: 70px;
+    padding-bottom: 40px;
     text-align: left;
-    height: 500px;
-}
-
-
-.Hello{
-    font-size: 200px;
+    margin-left: 20%;
+    margin-right: 20%;
     padding-top: 40px;
-   
+
 }
+
 .Name{
     font-size: 50px;
     color:lightblue;
 }
 
+.dev{
+    font-size: 25px;
+}
 
-.pointer {
-    margin-left: 1px;
-    width: 40%;
-    height: 500px;
-    position: relative;
-    background: lightblue;
-    float: right;
-   
-  }
-  .pointer:after {
-    content: "";
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    width: 0;
-    height: 0;
-    border-left: 300px solid darkslategray;
-    border-top: 250px solid transparent;
-    border-bottom: 250px solid transparent;
 
-  }
+

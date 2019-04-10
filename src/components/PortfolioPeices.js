@@ -25,7 +25,7 @@ class PortfolioPeices extends Component {
 </div>
 <div className="column">
 <div className="box-description">
-<p>Hangman Style Game</p>
+<h4>Word Guess Game</h4>
         <ul className="portfolio-ul">
         <li>
            A hangman style word-guess game, utilizing Vanilla Javascript
@@ -55,7 +55,7 @@ class PortfolioPeices extends Component {
 </div>
 <div className="column">
 <div className="box-description">
-<p>Doctor Who Memory Game</p>
+<h4>Doctor Who Memory Game</h4>
         <ul className="portfolio-ul">
         
           <li>
@@ -84,7 +84,7 @@ class PortfolioPeices extends Component {
 </div>
 <div className="column">
 <div className="box-description">
-   <p>Drinkerator</p>
+<h4>Drinkerator</h4>
         <ul className="portfolio-ul">
         <li>
            Role: Front End team and Design
@@ -113,7 +113,7 @@ class PortfolioPeices extends Component {
 </div>
 <div className="column">
 <div className="box-description">
-<p>Jane Newport Photography Website</p>
+<h4>Jane Newport Photography Website</h4>
         <ul className="portfolio-ul">
         <li>A photography website designed for the photographer 'Jane Newport.' The site utilizes nodemailer to send emails, and has a scheduling system which uses CRUD methods.</li>
         <li>
@@ -141,7 +141,7 @@ class PortfolioPeices extends Component {
 </div>
 <div className="column">
 <div className="box-description">
-<p>CleverCap</p>
+<h4>CleverCap</h4>
         <ul className="portfolio-ul">
         <li>Designed for Instagram users who are looking for unique captions to use for their Instagram photos, who are seeking to maximize their engagement potential.</li>
           <li>

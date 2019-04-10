@@ -52,3 +52,25 @@
 .thisBox a:active{
     text-decoration: none;
 }
+
+
+
+body{
+    height: 100%;
+}
+
+.t {
+    width: 100%;
+    transition: 0.1s;
+}
+
+.t-text {
+    width: 100%;
+    transition: .1s;
+
+}
+
+.scrolled{
+    position: fixed;
+    top: 0;
+}

@@ -8,10 +8,13 @@ import Contact from './components/Contact';
 import Footer from './components/Footer';
 
 class Home extends Component {
+
   render() {
     return (
    
       <div className="Home">
+ 
+
       <Header/>
       <NavBar/>
       <About/>
@@ -19,9 +22,8 @@ class Home extends Component {
       <PortfolioPeices/>
       <Contact/>
       <Footer/>
-
-
       </div>
+
     
     );
   }

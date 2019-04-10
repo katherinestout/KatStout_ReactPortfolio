@@ -9,16 +9,16 @@ class Header extends Component {
     return (
     <div className="Header">
     <div className="Main">
-  
 
     <h1> 
+   
       <div className="Name animated slideInLeft">
-        I am Katherine Stout. 
+  Katherine Stout. 
         </div>
         
       </h1>
 
-    <h2 className="Emphasis animated slideInLeft">Full Stack Developer</h2>
+    <h2 className="Emphasis dev animated slideInLeft">Full Stack Developer</h2>
     </div>
   
     </div>

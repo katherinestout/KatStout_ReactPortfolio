@@ -64,7 +64,9 @@ ul.portfolio-ul {
     
     }
 
-
+.box-description {
+    margin-top: 10px;
+}
 
 .box-description a:link{
         color: black;

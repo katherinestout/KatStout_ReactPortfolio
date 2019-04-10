@@ -1,23 +1,33 @@
 import React, { Component } from 'react';
 import "./style/navbar.css";
 
-   /*
-    <div className="row">
-      <div className="column">
-      <div className="pics">
-      </div>
-      </div>
-      <div className="column">
-      <div className="description">
-      </div>
-      </div>
-      </div>
-*/
 
 class NavBar extends Component {
+  constructor(){
+    super();
+    this.state ={
+      scrolled: false
+    };
+  }
+
+  componentDidMount(){
+    window.addEventListener('scroll', () => {
+      const isTop = window.scrollY < 100;
+      if(isTop !== true){
+        this.setState({scrolled: true});
+      } else {
+        this.setState({scrolled: false});
+      }
+    });
+  }
+  componentWillUnmount(){
+    window.removeEventListener('scroll');
+  }
   render() {
     return (
-      <div className="NavBar bar">
+      <div className = {this.state.scrolled ? 't scrolled' : 't'}>
+
+      <div className="NavBar bar t-text">
       <div className="thisContainer">
   
       <div className="thisBox">
@@ -41,6 +51,7 @@ class NavBar extends Component {
       </div>
      
   
+      </div>
       </div>
       </div>
     );
