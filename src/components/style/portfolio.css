@@ -15,14 +15,18 @@
 }
 
 .portfoliocode {
-        background-color: darkslategray;
+        background-color: orchid;
         padding: 10px;
         border-radius: 5px;
         text-decoration: none;
         text-align: center;
-        margin-left: 10%;
-        margin-right: 10%;
+        font-size: 20px;
+        max-width: 60%;
+        margin-left: 20%;
+        margin-right: 20%;
+      
 }
+
 
 @media(min-width:468px){
     .column{
@@ -62,19 +66,37 @@ ul.portfolio-ul {
 
 
 
-    li a:link{
+.box-description a:link{
         color: black;
         text-decoration: none;
       
     }
-    li a:visited{
+.box-description a:visited{
         color: black;
         text-decoration: none;
     }
-    li a:hover{
+.box-description a:hover{
         color: lightblue;
     }
-    li a:active{
+.box-description a:active{
+        text-decoration: none;
+    }
+
+
+
+.portfolio-link a:link{
+        color: whitesmoke;
+        text-decoration: none;
+      
+    }
+.portfolio-link a:visited{
+        color: whitesmoke;
+        text-decoration: none;
+    }
+.portfolio-link a:hover{
+        color: orange;
+    }
+.portfolio-link a:active{
         text-decoration: none;
     }
 

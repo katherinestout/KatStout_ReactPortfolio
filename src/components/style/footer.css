@@ -6,4 +6,20 @@
     padding: 30px;
    
 }
+.Footer a:link{
+    color: white;
+    text-decoration: none;
+  
+}
+.Footer a:visited{
+    color: white;
+    text-decoration: none;
+}
+.Footer a:hover{
+    color: darkslategray;
+}
+.Footer a:active{
+    text-decoration: none;
+}
+
 

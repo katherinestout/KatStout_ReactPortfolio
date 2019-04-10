@@ -24,7 +24,7 @@ class PortfolioPeices extends Component {
 </div>
 </div>
 <div className="column">
-<div className="box-1-description">
+<div className="box-description">
 <p>Hangman Style Game</p>
         <ul className="portfolio-ul">
         <li>
@@ -47,14 +47,14 @@ class PortfolioPeices extends Component {
 
 <div className="row">
 <div className="column">
-<div className="box-2">
+<div className="box-description">
 <a href="https://young-dusk-20952.herokuapp.com/">
         <img src={doctorwho} alt="doctorwho" className="screenshots" ></img>
         </a>
 </div>
 </div>
 <div className="column">
-<div className="box-2-description">
+<div className="box-description">
 <p>Doctor Who Memory Game</p>
         <ul className="portfolio-ul">
         
@@ -83,7 +83,7 @@ class PortfolioPeices extends Component {
 </div>
 </div>
 <div className="column">
-<div className="box-3-description">
+<div className="box-description">
    <p>Drinkerator</p>
         <ul className="portfolio-ul">
         <li>
@@ -112,7 +112,7 @@ class PortfolioPeices extends Component {
 </div>
 </div>
 <div className="column">
-<div className="box-4-description">
+<div className="box-description">
 <p>Jane Newport Photography Website</p>
         <ul className="portfolio-ul">
         <li>A photography website designed for the photographer 'Jane Newport.' The site utilizes nodemailer to send emails, and has a scheduling system which uses CRUD methods.</li>
@@ -140,7 +140,7 @@ class PortfolioPeices extends Component {
 </div>
 </div>
 <div className="column">
-<div className="box-5-description">
+<div className="box-description">
 <p>CleverCap</p>
         <ul className="portfolio-ul">
         <li>Designed for Instagram users who are looking for unique captions to use for their Instagram photos, who are seeking to maximize their engagement potential.</li>
@@ -160,7 +160,7 @@ class PortfolioPeices extends Component {
 </div>
 </div>
 
-      <div className="column">
+      <div className="column portfolio-link">
       <button className="portfoliocode"> 
       <a href="https://github.com/katherinestout/KatStout_ReactPortfolio">
       Portfolio Code</a></button>
