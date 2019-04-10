@@ -28,11 +28,16 @@ class PortfolioPeices extends Component {
 <p>Hangman Style Game</p>
         <ul className="portfolio-ul">
         <li>
-           Short Description/ Purpose
+           A hangman style word-guess game, utilizing Vanilla Javascript
           </li>
           <li>
            Vanilla Javascript, jQuery, Boostrap
           </li>
+          <li>   <a href ="https://github.com/katherinestout/FloralWordGame">
+                    Code </a></li>
+          <li>  <a href ="https://katherinestout.github.io/FloralWordGame/">
+                    Deployed
+                    </a></li>
        
        
         </ul>
@@ -54,11 +59,16 @@ class PortfolioPeices extends Component {
         <ul className="portfolio-ul">
         
           <li>
-           Short Description/ Purpose
+           A memory game built with React
           </li>
           <li>
-           React, 
+           React, ES6
           </li>
+          <li> <a href="https://github.com/katherinestout/DoctorWho_ReactGame">
+                   Code
+                   </a></li>
+          <li>   <a href="https://young-dusk-20952.herokuapp.com/">
+                    Deployed</a></li>
         
         </ul>
 </div>
@@ -79,15 +89,16 @@ class PortfolioPeices extends Component {
         <li>
            Role: Front End team and Design
           </li>
-          <li>
-           Project Difficulties:
-          </li>
-          <li>
-           My Solution:
-          </li>
+          <li>App designed to come up with the perfect drink, for a young 20-something newcomer to the bar scene who does not know what drink to order.</li>
+         
           <li>
                   Javascript, jQuery, Bulma
           </li>
+          <li>    <a href="https://github.com/katherinestout/Drinkerator">
+                    Code
+                    </a></li>
+          <li>  <a href="https://katherinestout.github.io/Drinkerator/">
+                    Deployed</a></li>
         </ul>
 </div>
 </div>
@@ -104,18 +115,18 @@ class PortfolioPeices extends Component {
 <div className="box-4-description">
 <p>Jane Newport Photography Website</p>
         <ul className="portfolio-ul">
+        <li>A photography website designed for the photographer 'Jane Newport.' The site utilizes nodemailer to send emails, and has a scheduling system which uses CRUD methods.</li>
         <li>
            Role: Front End, Back End, and Design
           </li>
           <li>
-           Project Difficulties:
+                  MERN stack, React, Redux, Express, Node, MongoDB, ES6, Javascript, Nodemailer, RESTFUL API
           </li>
-          <li>
-           My Solution:
-          </li>
-          <li>
-                  MERN stack, React, Redux, Express, Node, MongoDB, ES6, Javascript
-          </li>
+          <li>  <a href="https://github.com/katherinestout/PhotoWebsite_PayPal_React">
+                    Code
+                    </a></li>
+          <li>    <a href="https://tranquil-wildwood-40776.herokuapp.com/home">
+                    Deployed</a></li>
         </ul>
 </div>
 </div>
@@ -132,18 +143,18 @@ class PortfolioPeices extends Component {
 <div className="box-5-description">
 <p>CleverCap</p>
         <ul className="portfolio-ul">
+        <li>Designed for Instagram users who are looking for unique captions to use for their Instagram photos, who are seeking to maximize their engagement potential.</li>
           <li>
            Role: Front End, Back End, and Design
           </li>
           <li>
-           Project Difficulties:
-          </li>
-          <li>
-           My Solution:
-          </li>
-          <li>
         MERN stack, React, Redux, Express, Node, MongoDB, ES6, Javascript, RESTFUL API
           </li>
+          <li> <a href="https://github.com/katherinestout/React_MERN">
+                   Code
+                   </a></li>
+          <li> <a href="https://damp-mountain-40245.herokuapp.com/login">
+                    Deployed</a></li>
         </ul>
 </div>
 </div>

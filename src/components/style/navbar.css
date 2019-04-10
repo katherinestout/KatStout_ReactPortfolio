@@ -37,18 +37,18 @@
 
 
 
-a:link{
+.thisBox a:link{
     color: white;
     text-decoration: none;
   
 }
-a:visited{
+.thisBox a:visited{
     color: white;
     text-decoration: none;
 }
-a:hover{
+.thisBox a:hover{
     color: darkslategray;
 }
-a:active{
+.thisBox a:active{
     text-decoration: none;
 }
