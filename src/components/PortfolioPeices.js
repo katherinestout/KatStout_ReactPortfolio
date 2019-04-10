@@ -27,9 +27,14 @@ class PortfolioPeices extends Component {
 <div className="box-1-description">
 <p>Hangman Style Game</p>
         <ul className="portfolio-ul">
-          <li>
-           Hangman Style Game
+        <li>
+           Short Description/ Purpose
           </li>
+          <li>
+           Vanilla Javascript, jQuery, Boostrap
+          </li>
+       
+       
         </ul>
 </div>
 </div>
@@ -47,9 +52,14 @@ class PortfolioPeices extends Component {
 <div className="box-2-description">
 <p>Doctor Who Memory Game</p>
         <ul className="portfolio-ul">
+        
           <li>
-           Memory Game
+           Short Description/ Purpose
           </li>
+          <li>
+           React, 
+          </li>
+        
         </ul>
 </div>
 </div>
@@ -66,8 +76,17 @@ class PortfolioPeices extends Component {
 <div className="box-3-description">
    <p>Drinkerator</p>
         <ul className="portfolio-ul">
+        <li>
+           Role: Front End team and Design
+          </li>
           <li>
-           Drinkerator
+           Project Difficulties:
+          </li>
+          <li>
+           My Solution:
+          </li>
+          <li>
+                  Javascript, jQuery, Bulma
           </li>
         </ul>
 </div>
@@ -85,8 +104,17 @@ class PortfolioPeices extends Component {
 <div className="box-4-description">
 <p>Jane Newport Photography Website</p>
         <ul className="portfolio-ul">
+        <li>
+           Role: Front End, Back End, and Design
+          </li>
           <li>
-           Photography Website
+           Project Difficulties:
+          </li>
+          <li>
+           My Solution:
+          </li>
+          <li>
+                  MERN stack, React, Redux, Express, Node, MongoDB, ES6, Javascript
           </li>
         </ul>
 </div>
@@ -105,7 +133,16 @@ class PortfolioPeices extends Component {
 <p>CleverCap</p>
         <ul className="portfolio-ul">
           <li>
-           CleverCap
+           Role: Front End, Back End, and Design
+          </li>
+          <li>
+           Project Difficulties:
+          </li>
+          <li>
+           My Solution:
+          </li>
+          <li>
+        MERN stack, React, Redux, Express, Node, MongoDB, ES6, Javascript, RESTFUL API
           </li>
         </ul>
 </div>
