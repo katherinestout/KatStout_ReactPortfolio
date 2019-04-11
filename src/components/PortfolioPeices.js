@@ -6,6 +6,8 @@ import drinkerator from "./screenshots/drinkerator.png";
 import photography from "./screenshots/photography.png";
 import wordguess from "./screenshots/wordguess.png";
 
+
+
 class PortfolioPeices extends Component {
   render() {
     return (
@@ -23,6 +25,7 @@ class PortfolioPeices extends Component {
         </a>
 </div>
 </div>
+
 <div className="column">
 <div className="box-description">
 <h4>Word Guess Game</h4>
@@ -45,19 +48,21 @@ class PortfolioPeices extends Component {
 </div>
 </div>
 
-<div className="row">
-<div className="column">
-<div className="box-description">
+
+
 <a href="https://young-dusk-20952.herokuapp.com/">
         <img src={doctorwho} alt="doctorwho" className="screenshots" ></img>
         </a>
-</div>
-</div>
+
+
+
 <div className="column">
 <div className="box-description">
 <h4>Doctor Who Memory Game</h4>
+
+
         <ul className="portfolio-ul">
-        
+      
           <li>
            A memory game built with React.
           </li>
@@ -73,7 +78,8 @@ class PortfolioPeices extends Component {
         </ul>
 </div>
 </div>
-</div>
+
+
 <div className="row">
 <div className="column">
 <div className="box-3">
@@ -163,10 +169,10 @@ class PortfolioPeices extends Component {
 </div>
 </div>
 
-      <div className="column portfolio-link">
-      <button className="portfoliocode"> 
-      <a href="https://github.com/katherinestout/KatStout_ReactPortfolio">
-      Portfolio Code</a></button>
+      <div className="column portfolio-link portfoliocode">
+      <a href="https://github.com/katherinestout/KatStout_ReactPortfolio"> 
+      Portfolio Code
+      </a>
       </div>
 
 
