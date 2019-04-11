@@ -57,16 +57,18 @@
 
 body{
     height: 100%;
+    
+    margin: 1px;
 }
 
 .t {
     width: 100%;
-    transition: 1s;
+
 }
 
 .t-text {
     width: 100%;
-    transition: 1s;
+
 
 }
 

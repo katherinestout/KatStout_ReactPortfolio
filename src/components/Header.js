@@ -19,7 +19,8 @@ class Header extends Component {
             } } />
           <img
             src={ src }
-            className="responsive-image__image" />
+            className="responsive-image__image"
+            alt={src} />
         </div>
       );
     }
@@ -33,10 +34,19 @@ class Header extends Component {
     src="https://images.unsplash.com/photo-1489844097929-c8d5b91c456e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1952&q=80"
     alt="headerpic"
     className="headpic"
-    width={ 1200 }
-    height={ 800 } />
+    width={ 1900 }
+    height={ 1100 } />
 
-   
+
+<div className="column-head">
+<h1 className="centered">Katherine Stout
+   <br></br>
+   Full Stack Web Developer</h1>
+</div>
+
+
+
+  
 
    
     </div>
