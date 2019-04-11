@@ -28,7 +28,7 @@ class PortfolioPeices extends Component {
 <h4>Word Guess Game</h4>
         <ul className="portfolio-ul">
         <li>
-           A hangman style word-guess game, utilizing Vanilla Javascript
+           A hangman style word-guess game, utilizing Vanilla Javascript and jQuery.
           </li>
           <li>
            Vanilla Javascript, jQuery, Boostrap
@@ -59,7 +59,7 @@ class PortfolioPeices extends Component {
         <ul className="portfolio-ul">
         
           <li>
-           A memory game built with React
+           A memory game built with React.
           </li>
           <li>
            React, ES6
@@ -89,7 +89,8 @@ class PortfolioPeices extends Component {
         <li>
            Role: Front End team and Design
           </li>
-          <li>App designed to come up with the perfect drink, for a young 20-something newcomer to the bar scene who does not know what drink to order.</li>
+          <li>App designed to come up with the perfect drink, for a person in their early 20's 
+                  who is to the bar scene and who does not know what drink to order.</li>
          
           <li>
                   Javascript, jQuery, Bulma
@@ -115,7 +116,8 @@ class PortfolioPeices extends Component {
 <div className="box-description">
 <h4>Jane Newport Photography Website</h4>
         <ul className="portfolio-ul">
-        <li>A photography website designed for the photographer 'Jane Newport.' The site utilizes nodemailer to send emails, and has a scheduling system which uses CRUD methods.</li>
+        <li>A photography website designed for the photographer 'Jane Newport.' 
+                The site utilizes nodemailer to send emails, and has a scheduling system which uses CRUD methods.</li>
         <li>
            Role: Front End, Back End, and Design
           </li>
@@ -143,7 +145,8 @@ class PortfolioPeices extends Component {
 <div className="box-description">
 <h4>CleverCap</h4>
         <ul className="portfolio-ul">
-        <li>Designed for Instagram users who are looking for unique captions to use for their Instagram photos, who are seeking to maximize their engagement potential.</li>
+        <li>Designed for Instagram users who are looking for unique captions to use 
+                for their Instagram photos, who are seeking to maximize their engagement potential.</li>
           <li>
            Role: Front End, Back End, and Design
           </li>
