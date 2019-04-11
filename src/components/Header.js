@@ -6,19 +6,39 @@ import "./style/header.css";
 
 class Header extends Component {
   render() {
-    return (
-    <div className="Header">
-    <div className="Main">
 
-    <h1> 
-   
-      <div className="Name animated slideInLeft">
-  Katherine Stout. 
+    function ResponsiveImage( { src, width, height } ) {
+      return (
+        <div
+          style={ { 
+            width,
+          } }
+          className="responsive-image">
+          <div style={ {
+              paddingBottom: ( height / width * 100 ) + '%'
+            } } />
+          <img
+            src={ src }
+            className="responsive-image__image" />
         </div>
-        
-      </h1>
+      );
+    }
+    
+    
+    return (
+    <div className="overlay">
+    <div>
 
-    <h2 className="Emphasis dev animated slideInLeft">Full Stack Developer</h2>
+    <ResponsiveImage
+    src="https://images.unsplash.com/photo-1489844097929-c8d5b91c456e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1952&q=80"
+    alt="headerpic"
+    className="headpic"
+    width={ 1200 }
+    height={ 800 } />
+
+   
+
+   
     </div>
   
     </div>

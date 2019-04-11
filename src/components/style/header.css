@@ -1,21 +1,4 @@
-.Header {
-    background: darkslategray;
-    color: aliceblue;
-    font-family: 'Roboto', sans-serif; 
-   
-   
 
-}
-
-.Main{
-
-    padding-bottom: 40px;
-    text-align: left;
-    margin-left: 20%;
-    margin-right: 20%;
-    padding-top: 40px;
-
-}
 
 .Name{
     font-size: 50px;
@@ -27,4 +10,38 @@
 }
 
 
+.headpic {
+    width: 100%;
+    opacity: 0.6;
+    height: auto;
 
+}
+.centered {
+
+        position: absolute;
+        top: 60%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      
+}
+
+.overlay{
+    background-color: whitesmoke;
+}
+.responsive-image {
+    position: relative;
+    max-width: 100%;
+
+    opacity: 0.6;
+    height: auto;
+  }
+  
+  .responsive-image__image {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }

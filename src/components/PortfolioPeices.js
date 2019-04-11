@@ -10,6 +10,9 @@ import wordguess from "./screenshots/wordguess.png";
 
 class PortfolioPeices extends Component {
   render() {
+          
+
+
     return (
 
       <div className="Portfolio" id="portfolio">
@@ -177,6 +180,7 @@ class PortfolioPeices extends Component {
 
 
 </div>
+
 </div>
 
      
