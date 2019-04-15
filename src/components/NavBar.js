@@ -10,6 +10,8 @@ class NavBar extends Component {
     };
   }
 
+/* For sticky navbar, will stick to top when Y is 300 */
+
   componentDidMount(){
     window.addEventListener('scroll', () => {
       const isTop = window.scrollY < 300;

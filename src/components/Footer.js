@@ -16,7 +16,7 @@ class Footer extends Component {
         </a>
         </div>
         </div>
-      </div>
+    </div>
     );
   }
 }

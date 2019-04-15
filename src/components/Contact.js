@@ -8,8 +8,6 @@ class Contact extends Component {
 
     return (
     <div className="Contact" id="contact">
-  
-
     <div className="title-box">
       <h2>Contact Me:</h2>
       </div>
@@ -33,16 +31,8 @@ class Contact extends Component {
     <a href ="https://www.github.com/katherinestout">
     <p>GitHub</p>
     </a>
-    
     </div>
     </div>
-   
-
-
-
-
-
-
     </div>
     );
   }

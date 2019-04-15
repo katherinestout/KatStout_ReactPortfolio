@@ -7,6 +7,7 @@ class Header extends Component {
 
     function ResponsiveImage( { src, width, height } ) {
       return (
+        /* for responsive header image */
         <div
           style={ { 
             width,
