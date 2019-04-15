@@ -1,9 +1,10 @@
 
 
 .centered {
-
-        position: relative;
-        top: 60%;
+  text-align: center;
+        font-size: 30px;
+        position: absolute;
+        top: 20%;
         left: 50%;
         transform: translate(-50%, -50%);
       
@@ -16,9 +17,8 @@
 .responsive-image {
     position: relative;
     max-width: 100%;
-
     opacity: 0.6;
-    height: auto;
+ 
   }
   
   .responsive-image__image {
@@ -32,7 +32,4 @@
   }
 
 
-  .column-head{
-    text-align: center;
-    flex-basis: 100%;
-  }
+  
