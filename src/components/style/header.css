@@ -2,13 +2,91 @@
 
 .centered {
   text-align: center;
-        font-size: 30px;
         position: absolute;
-        top: 20%;
         left: 50%;
         transform: translate(-50%, -50%);
       
 }
+
+.fullstack {
+  color: darkslategray;
+}
+
+.name {
+  color: lightblue;
+}
+/* Extra small devices*/
+@media only screen and (max-width: 600px){
+  .centered {
+    top: 15%;
+  }
+  .fullstack{
+    font-size: 25px;
+  }
+  .name {
+    font-size: 15px;
+  }
+
+}
+/* Small devices*/
+
+@media only screen and (min-width: 600px){
+  .centered {
+    top: 25%;
+  }
+  .fullstack{
+    font-size: 40px;
+  }
+  .name {
+    font-size: 20px;
+    
+  }
+}
+
+/* Medium devices */
+@media only screen and (min-width: 768px){
+  .centered {
+    top: 30%;
+  }
+  .fullstack{
+    font-size: 50px;
+
+  }
+  .name {
+    font-size: 25px;
+    
+  }
+}
+
+/* Large devices like laptops or desktops */
+@media only screen and (min-width: 992px){
+  .centered {
+    top: 40%;
+  }
+  .fullstack{
+    font-size: 60px;
+  }
+  .name {
+    font-size: 30px;
+    
+  }
+}
+
+/* Extra large devices like large laptops or desktops */
+@media only screen and (min-width: 1200px){
+  .centered {
+    top: 50%;
+  }
+  .fullstack{
+    font-size: 70px;
+
+  }
+  .name {
+    font-size: 40px;
+    
+  }
+}
+
 
 .overlay{
     background-color: whitesmoke;

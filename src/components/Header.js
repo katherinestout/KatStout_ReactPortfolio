@@ -37,16 +37,16 @@ class Header extends Component {
 
 
 <div className="column-head">
-<h1 className="centered">Katherine Stout
-   <br></br>
-   Full Stack Web Developer</h1>
+<h1 className="centered">
+<div className='fullstack'>
+Katherine Stout
+  </div>
+ 
+   <div className='name'>
+  Full Stack Web Developer
+
+     </div></h1>
 </div>
-
-
-
-  
-
-   
     </div>
   
     </div>
