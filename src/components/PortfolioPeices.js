@@ -5,7 +5,7 @@ import doctorwho from "./screenshots/doctorwho.png";
 import drinkerator from "./screenshots/drinkerator.png";
 import photography from "./screenshots/photography.png";
 import wordguess from "./screenshots/wordguess.png";
-
+import portfolio from "./screenshots/portfolio.png";
 
 
 class PortfolioPeices extends Component {
@@ -172,15 +172,30 @@ class PortfolioPeices extends Component {
 </div>
 </div>
 
-      <div className="column portfolio-link portfoliocode">
-      <a href="https://github.com/katherinestout/KatStout_ReactPortfolio"> 
-      Portfolio Code
-      </a>
-      </div>
-
-
+<div className="row">
+<div className="column">
+<div className="box-5">
+<a href="https://github.com/katherinestout/KatStout_ReactPortfolio">
+        <img src={portfolio} alt="portfolio" className="screenshots" ></img>
+        </a>
 </div>
+</div>
+<div className="column">
+<div className="box-description">
+<h4>My Portfolio</h4>
+        <ul className="portfolio-ul">
 
+        
+        
+          <li> <a href="https://github.com/katherinestout/KatStout_ReactPortfolio">
+                  Portfolio Code
+                   </a></li>
+         
+        </ul>
+</div>
+</div>
+</div>
+</div>
 </div>
 
      

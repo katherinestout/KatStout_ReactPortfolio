@@ -18,7 +18,7 @@ class About extends Component {
         with a degree in Communications and a Minor in Studio Art.
         During my college years, I discovered two of my greatest passions;
         photography and coding. From 2017 - present I have ran my own photography 
-        business. Then in 2018 I earned my Full Stack Web Development Certificate from George 
+        business. In 2018 I earned my Full Stack Web Development Certificate from George 
         Washington University.
         
        

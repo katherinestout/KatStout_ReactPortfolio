@@ -18,11 +18,13 @@ i{
     
     }
 }
+
    
 
 .contact-box {
     flex-basis: 30%;
     text-align: center;
+   margin-left: 5%;
   
 }
 

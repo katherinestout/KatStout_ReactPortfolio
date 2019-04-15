@@ -24,14 +24,14 @@ class Contact extends Component {
     <div className="contact-box">
     <i className="fab fa-linkedin"></i> 
     <a href="https://www.linkedin.com/in/katherinejstout/">
-   <p>LinkedIn Profile</p> 
+   <p>LinkedIn</p> 
    </a>
     </div>
 
       <div className="contact-box">
       <i className="fab fa-github"></i> 
     <a href ="https://www.github.com/katherinestout">
-    <p>My Repositories</p>
+    <p>GitHub</p>
     </a>
     
     </div>
