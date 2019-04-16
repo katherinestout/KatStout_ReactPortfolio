@@ -14,12 +14,16 @@ class About extends Component {
       <div className="container-about">
       <div className="about-box-1 about-box">
       
-      <p>In 2017 I graduated from Hood College, 
-        with a degree in Communications and a Minor in Studio Art.
-        During my college years, I discovered two of my greatest passions;
-        photography and coding. From 2017 - present I have ran my own photography 
-        business. In 2018 I earned my Full Stack Web Development Certificate from George 
-        Washington University.
+      <p>
+        
+        
+      I am a Full Stack Web Developer, 
+      with a background in Design and Photography. 
+      Upon graduating from Hood College in 2017, with my BA in Communications, 
+      I started and ran my own photography business. 
+      A year later, I dove full force into coding, 
+      earning my certificate in Full Stack Web Development 
+      from George Washington University. 
         
        
         </p>

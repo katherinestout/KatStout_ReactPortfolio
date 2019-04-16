@@ -1,8 +1,8 @@
 .Skills{
-
     background: aliceblue;
     text-align: center;
     padding: 5%;
+    color: darkslategray;
 }
 .skills-wrapper{
     margin-left: 20%;
@@ -18,7 +18,7 @@ ul.skill-list {
    display: inline-block;
 }
 li{ 
-    color: black;
+    color: darkslategray;
 }
 @media(min-width:468px){
     .container-skills{

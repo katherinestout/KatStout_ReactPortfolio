@@ -4,6 +4,8 @@
   padding-bottom: 0;
    background: aliceblue;
     font-family: 'Roboto', sans-serif;
+    color: darkslategray;
+  
 }
 
 .btn{
@@ -40,12 +42,5 @@ padding-top: 50px;
 
 .about-box-1{
     flex:1;
-    order: 1;
-
-}
-
-.about-box-2{
-    flex: 1;
-    order: 2;
 
 }
