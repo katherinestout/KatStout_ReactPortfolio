@@ -38,7 +38,7 @@ class Header extends Component {
 
 
 <div className="column-head">
-<h1 className="centered">
+<h1 className="centered animated fadeIn">
 <div className='fullstack'>
 Katherine Stout
   </div>

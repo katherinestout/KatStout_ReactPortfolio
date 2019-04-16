@@ -10,11 +10,12 @@ class NavBar extends Component {
     };
   }
 
-/* For sticky navbar, will stick to top when Y is 300 */
+/* For sticky navbar, will stick to top when Y is less than ___ */
+/* When Y is less than the length of the image */
 
   componentDidMount(){
     window.addEventListener('scroll', () => {
-      const isTop = window.scrollY < 300;
+      const isTop = window.scrollY < 900;
       if(isTop !== true){
         this.setState({scrolled: true});
       } else {
@@ -32,21 +33,21 @@ class NavBar extends Component {
       <div className="NavBar bar t-text">
       <div className="thisContainer">
   
-      <div className="thisBox">
+      <div className="thisBox animated fadeIn navabout">
       <a href="#about">
       ABOUT 
       </a>
       </div>
-      <div className="thisBox">
+      <div className="thisBox animated fadeIn navskills">
       <a href="#skills">
       SKILLS
       </a>
       </div>
-      <div className="thisBox">
+      <div className="thisBox animated fadeIn navportfolio">
       <a href="#portfolio">
       PORTFOLIO</a>
       </div>
-      <div className="thisBox">
+      <div className="thisBox animated fadeIn navcontact">
       <a href="#contact">
       CONTACT
       </a>

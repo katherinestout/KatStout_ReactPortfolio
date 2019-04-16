@@ -9,17 +9,17 @@
     margin-right: 20%;
 }
 
-
-
 ul.skill-list {
    list-style-type: none;
    text-align: center;
    overflow: hidden;
    display: inline-block;
 }
+
 li{ 
     color: darkslategray;
 }
+
 @media(min-width:468px){
     .container-skills{
         display: flex; 
@@ -27,7 +27,6 @@ li{
     
     }
 }
-
 
 .skill-box{
     flex-basis: 25%;

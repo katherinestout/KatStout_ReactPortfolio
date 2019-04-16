@@ -77,3 +77,16 @@ body{
     position: fixed;
     top: 0;
 }
+
+.navabout{
+    animation-delay: .5s;
+}
+.navskills{
+    animation-delay: .75s;
+}
+.navportfolio{
+    animation-delay: 1s;
+}
+.navcontact{
+    animation-delay: 1.25s;
+}
