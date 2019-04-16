@@ -31,6 +31,8 @@ class Skills extends Component {
                   <li> Node.js </li>
                   <li> React.js </li>
                   <li>Redux </li>
+                  <li>EJS</li>
+                  <li>Handlebars</li>
                   </ul>
               </div>
 
