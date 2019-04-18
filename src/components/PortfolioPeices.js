@@ -145,7 +145,7 @@ class PortfolioPeices extends Component {
 <div className="row">
 <div className="column">
 <div className="box-5">
-<a href="https://damp-mountain-40245.herokuapp.com/login">
+<a href="https://damp-mountain-40245.herokuapp.com">
         <img src={clevercap} alt="clevercap" className="screenshots" ></img>
         </a>
 </div>
@@ -165,7 +165,7 @@ class PortfolioPeices extends Component {
           <li> <a href="https://github.com/katherinestout/React_MERN">
                    Code
                    </a></li>
-          <li> <a href="https://damp-mountain-40245.herokuapp.com/login">
+          <li> <a href="https://damp-mountain-40245.herokuapp.com">
                     Deployed</a></li>
         </ul>
 </div>
