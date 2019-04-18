@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/KatStout_ReactPortfolio/static/media/doctorwho.c91ca684.png"
   },
   {
-    "revision": "05c1c1a4ac85acd822aa",
-    "url": "/KatStout_ReactPortfolio/static/css/main.9a979f23.chunk.css"
+    "revision": "8e71f269222e35f15d72",
+    "url": "/KatStout_ReactPortfolio/static/css/main.fec2b76b.chunk.css"
   },
   {
-    "revision": "29500a733beb40a90aed",
-    "url": "/KatStout_ReactPortfolio/static/js/1.29500a73.chunk.js"
+    "revision": "a58cff8566f44c2b03f0",
+    "url": "/KatStout_ReactPortfolio/static/js/1.a58cff85.chunk.js"
   },
   {
     "revision": "a75921e5909c02e9d4b8",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/KatStout_ReactPortfolio/static/media/clevercap.dffde38a.png"
   },
   {
-    "revision": "05c1c1a4ac85acd822aa",
-    "url": "/KatStout_ReactPortfolio/static/js/main.05c1c1a4.chunk.js"
+    "revision": "8e71f269222e35f15d72",
+    "url": "/KatStout_ReactPortfolio/static/js/main.8e71f269.chunk.js"
   },
   {
     "revision": "c64e06772a15fdeb52968ffca16a5172",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/KatStout_ReactPortfolio/static/media/portfolio.513a0f34.png"
   },
   {
-    "revision": "9f31eacffb2d584bb7e579b1f3628369",
+    "revision": "10f047615a006d8683bca53d826bf32d",
     "url": "/KatStout_ReactPortfolio/index.html"
   }
 ];
