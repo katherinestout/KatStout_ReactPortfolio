@@ -34,6 +34,8 @@ class About extends Component {
         <div className="about-box">
         <p>Download my resume!</p>
         <a href ="https://drive.google.com/file/d/1HZ7uluRVBYfiNid8Jwrd9XaQ2lrD0AJx/view?usp=sharing">
+
+
         <button type="button" className="btn btn">
         
         Resume 
