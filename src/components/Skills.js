@@ -21,6 +21,7 @@ class Skills extends Component {
                   <li>SASS </li>
                   <li> Javascript</li>
                   <li> jQuery</li>
+                  <li>Flexbox</li>
              </ul>
             </div>
 
@@ -44,6 +45,7 @@ class Skills extends Component {
                  <li> MongoDB-Atlas</li>
                  <li>  Express</li>
                  <li> Git </li>
+                 <li>CSS Grid</li>
              </ul>
             </div>
             </div>
