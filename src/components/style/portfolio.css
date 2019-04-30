@@ -3,34 +3,10 @@
     background: aliceblue;
     padding: 5%;
     padding-top: 0;
-    flex-basis: 100%;
     color: darkslategray;
   
 }
 
-.screenshots{
-   max-width: 100%;
-}
-
-@media(min-width:468px){
-    .column{
-        display: flex;
-        flex-direction: column;
-    }
-
-    .row{
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-        
-    }
-}
-
-
-.portfolio-wrapper{
-    margin-left: 25%;
-    margin-right: 25%;
-}
 
 
 ul.portfolio-ul {
@@ -46,11 +22,11 @@ ul.portfolio-ul {
     padding-top: 50px;
     
     }
-
+/*
 .box-description {
     margin-top: 30px;
     margin-bottom: 30px;
-}
+}*/
 
 .box-description a:link{
         color: darkslategray;

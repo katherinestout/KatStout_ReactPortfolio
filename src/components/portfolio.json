@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "name": "Word Guess Game",
+        "github": "https://github.com/katherinestout/FloralWordGame",
+        "deploy": "https://katherinestout.github.io/FloralWordGame/",
+        "description": "A hangman style word-guess game, utilizing Vanilla Javascript and jQuery.",
+        "tools": "Vanilla Javascript, jQuery, Boostrap",
+        "img": "screenshots/wordguess.png"
+
+    },
+    {
+        "id": 2,
+        "name": "Doctor Who Memory Game",
+        "github": "https://github.com/katherinestout/DoctorWho_ReactGame",
+        "deploy": "https://young-dusk-20952.herokuapp.com/",
+        "description": "A memory game built with React.",
+        "tools": "React, ES6",
+        "img": "screenshots/doctorwho.png"
+
+    },
+    {
+        "id": 3,
+        "name": "Photography Website",
+        "github": "https://github.com/katherinestout/DoctorWho_ReactGame",
+        "deploy": "https://young-dusk-20952.herokuapp.com/",
+        "description": "A memory game built with React.",
+        "tools": "React, ES6",
+        "img": "screenshots/photography.png"
+
+    },
+    {
+        "id": 4,
+        "name": "CleverCap",
+        "github": "https://github.com/katherinestout/DoctorWho_ReactGame",
+        "deploy": "https://young-dusk-20952.herokuapp.com/",
+        "description": "A memory game built with React.",
+        "tools": "React, ES6",
+        "img": "screenshots/clevercap.png"
+
+    },
+    {
+        "id": 5,
+        "name": "Drinkerator",
+        "github": "https://github.com/katherinestout/DoctorWho_ReactGame",
+        "deploy": "https://young-dusk-20952.herokuapp.com/",
+        "description": "A memory game built with React.",
+        "tools": "React, ES6",
+        "img": "screenshots/drinkerator.png"
+
+    },
+    {
+        "id": 6,
+        "name": "My Portfolio",
+        "github": "https://github.com/katherinestout/DoctorWho_ReactGame",
+        "img": "screenshots/portfolio.png"
+
+    }
+]

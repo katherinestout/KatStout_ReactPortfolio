@@ -1,0 +1,36 @@
+
+
+.box-description{
+    margin-top: 10%;
+    margin-bottom: 10%;
+
+}
+
+img {
+    max-width: 100%;
+    box-shadow: 0 0 20px 0 rgba(72, 94, 116, 0.7);
+ }
+
+
+
+/* Medium devices */
+@media only screen and (min-width: 700px){
+    .img-box{
+        width: 50%;
+        }
+    .box-description{
+        width: 50%;
+    }
+        
+        .box-description-box{
+            width: 100%;
+            margin-left: 10%;
+            
+        }
+
+        .card-container{
+            display: flex;
+            margin-top: 10%;
+            margin-bottom: 10%;
+        }
+  }
