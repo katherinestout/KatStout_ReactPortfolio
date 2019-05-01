@@ -5,8 +5,10 @@
     color: darkslategray;
 }
 .skills-wrapper{
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-top: 5%;
+    margin-left:15%;
+    margin-right: 15%;
+
 }
 
 ul.skill-list {
@@ -20,7 +22,7 @@ li{
     color: darkslategray;
 }
 
-@media(min-width:468px){
+@media(min-width:600px){
     .container-skills{
         display: flex; 
         justify-content: space-between;
@@ -29,7 +31,7 @@ li{
 }
 
 .skill-box{
-    flex-basis: 25%;
+    flex-basis: 20%;
     text-align: center;
 
 }

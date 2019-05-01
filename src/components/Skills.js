@@ -1,9 +1,27 @@
 import React, { Component } from 'react';
 import "./style/skills.css";
+import SkillsCard from './skills/SkillsCard';
+import skills from './skills/skills.json';
+import skillstwo from './skills/skillstwo.json';
+import skillsthree from './skills/skillsthree.json';
 
 
 class Skills extends Component {
+
+    state = {
+        skillList: skills,
+        skillListTw: skillstwo,
+        skillListTh: skillsthree
+    };
+
+
+
   render() {
+  
+ 
+
+console.log(skills);
+
     return (
       <div className="Skills" id="skills">
 
@@ -15,37 +33,52 @@ class Skills extends Component {
 
             <div className="skill-box">
             <ul className="skill-list">
-                 <li>HTML </li>
-                 <li> CSS </li>
-                  <li> Bootstrap</li>
-                  <li>SASS </li>
-                  <li> Javascript</li>
-                  <li> jQuery</li>
-                  <li>Flexbox</li>
+            
+            {this.state.skillList.map(skill=>(
+       
+                    <SkillsCard 
+                        id={skill.id}
+                        key={skill.skillz}
+                        skillz = {skill.skillz}
+             
+                    />
+      
+                   
+                ))}
+       
              </ul>
             </div>
 
             <div className="skill-box">
             <ul className="skill-list">
-                 <li>Heroku </li>
-                  <li> API's and AJAX</li>
-                  <li> Node.js </li>
-                  <li> React.js </li>
-                  <li>Redux </li>
-                  <li>EJS</li>
-                  <li>Handlebars</li>
-                  </ul>
+            {this.state.skillListTw.map(skillstwo=>(
+       
+       <SkillsCard 
+           id={skillstwo.id}
+           key={skillstwo.skillz}
+           skillz = {skillstwo.skillz}
+
+       />
+      
+   ))}
+            </ul>
               </div>
+
+
 
             <div className="skill-box">
             <ul className="skill-list">
-                 <li> Materialize.css</li>
-                 <li> Moment.js </li>
-                 <li> Firebase </li>
-                 <li> MongoDB-Atlas</li>
-                 <li>  Express</li>
-                 <li> Git </li>
-                 <li>CSS Grid</li>
+            {this.state.skillListTh.map(skillsthree=>(
+       
+       <SkillsCard 
+           id={skillsthree.id}
+           key={skillsthree.skillz}
+           skillz = {skillsthree.skillz}
+
+       />
+
+      
+   ))}
              </ul>
             </div>
             </div>
