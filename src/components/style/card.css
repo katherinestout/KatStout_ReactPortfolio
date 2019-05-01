@@ -1,11 +1,4 @@
 
-
-.box-description{
-    margin-top: 10%;
-    margin-bottom: 10%;
-
-}
-
 img {
     max-width: 100%;
     box-shadow: 0 0 20px 0 rgba(72, 94, 116, 0.7);
@@ -20,11 +13,13 @@ img {
         }
     .box-description{
         width: 50%;
+        margin-left: 5%;
+        margin-right: 5%;
     }
         
         .box-description-box{
             width: 100%;
-            margin-left: 10%;
+         
             
         }
 
