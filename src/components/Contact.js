@@ -15,7 +15,7 @@ class Contact extends Component {
     <div className="container-contact">
    <div className="contact-box">
     <i className="fas fa-envelope-open"></i>  
-    <p>   kjs14@hood.edu</p>
+    <p>   katie.stout@outlook.com</p>
  
     </div>
 
