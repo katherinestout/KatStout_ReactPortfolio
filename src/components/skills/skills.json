@@ -1,70 +1,90 @@
 
         [
            {
-            "skillz": "Materialize.css"
+            "skillz": "Materialize.css",
+            "id": 1
            },
            {
-               "skillz": "Moment.js"
+               "skillz": "Moment.js",
+               "id": 2
            },
            {
-               "skillz": "Firebase"
+               "skillz": "Firebase",
+               "id": 3
            },
            {
-            "skillz": "MongoDB Atlas"
+            "skillz": "MongoDB Atlas",
+            "id": 4
         },
         {
-            "skillz": "Express"
+            "skillz": "Express",
+            "id": 5
         },
         {
-            "skillz": "Git"
+            "skillz": "Git",
+            "id": 6
         },
         {
-            "skillz": "CSS Grid"
-        },
-        
-
-        {
-            "skillz2": "APIs and AJAX"
-        },
-        {
-            "skillz2": "Nodejs"
-        },
-        {
-            "skillz2": "Reactjs"
-        },
-        {
-            "skillz2": "Redux"
-        },
-        {
-            "skillz2": "Handlebars"
-        },
-        {
-            "skillz2": "Heroku"
-        },
-        {
-            "skillz2": "jQuery"
+            "skillz": "CSS Grid",
+            "id": 7
         },
 
         {
-            "skillz3": "Flexbox"
+            "skillz2": "APIs and AJAX",
+            "id": 8
+        },
+        {
+            "skillz2": "Nodejs",
+            "id": 9
+        },
+        {
+            "skillz2": "Reactjs",
+            "id": 10
+        },
+        {
+            "skillz2": "Redux",
+            "id": 11
+        },
+        {
+            "skillz2": "Handlebars",
+            "id": 12
+        },
+        {
+            "skillz2": "Heroku",
+            "id": 13
+        },
+        {
+            "skillz2": "jQuery",
+            "id": 14
+        },
+
+        {
+            "skillz3": "Flexbox",
+            "id": 15
         }, 
      {
-        "skillz3": "HTML5"
+        "skillz3": "HTML5",
+        "id": 16
     },
     {
-        "skillz3": "CSS"
+        "skillz3": "CSS",
+        "id": 17
     },
     {
-        "skillz3": "Bootstrap"
+        "skillz3": "Bootstrap",
+        "id": 18
     },
     {
-        "skillz3": "Bulma"
+        "skillz3": "Bulma",
+        "id": 19
     },
     {
-        "skillz3": "SASS"
+        "skillz3": "SASS",
+        "id": 20
     },
     {
-        "skillz3": "Javascript"
+        "skillz3": "Javascript",
+        "id": 21
     }
 ]
 

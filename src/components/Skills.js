@@ -27,7 +27,7 @@ class Skills extends Component {
        
                     <SkillsCard 
                         id={skill.id}
-                        key={skill.skillz}
+                        key={skill.id}
                         skillz = {skill.skillz}
              
                     />
@@ -40,24 +40,24 @@ class Skills extends Component {
 
             <div className="skill-box">
             <ul className="skill-list">
-            {this.state.skillList.map(skills=>(
+            {this.state.skillList.map(skill=>(
        
        <SkillsCard 
-           id={skills.id}
-           key={skills.skillz2}
-           skillz = {skills.skillz2}
+           id={skill.id}
+           key={skill.id}
+           skillz = {skill.skillz2}
        />
    ))}
             </ul>
             </div>
             <div className="skill-box">
             <ul className="skill-list">
-            {this.state.skillList.map(skills=>(
+            {this.state.skillList.map(skill=>(
        
        <SkillsCard 
-           id={skills.id}
-           key={skills.skillz3}
-           skillz = {skills.skillz3}
+           id={skill.id}
+           key={skill.id}
+           skillz = {skill.skillz3}
        />
    ))}
              </ul>
