@@ -20,7 +20,52 @@
         },
         {
             "skillz": "CSS Grid"
-        }
+        },
+        
+
+        {
+            "skillz2": "APIs and AJAX"
+        },
+        {
+            "skillz2": "Nodejs"
+        },
+        {
+            "skillz2": "Reactjs"
+        },
+        {
+            "skillz2": "Redux"
+        },
+        {
+            "skillz2": "Handlebars"
+        },
+        {
+            "skillz2": "Heroku"
+        },
+        {
+            "skillz2": "jQuery"
+        },
+
+        {
+            "skillz3": "Flexbox"
+        }, 
+     {
+        "skillz3": "HTML5"
+    },
+    {
+        "skillz3": "CSS"
+    },
+    {
+        "skillz3": "Bootstrap"
+    },
+    {
+        "skillz3": "Bulma"
+    },
+    {
+        "skillz3": "SASS"
+    },
+    {
+        "skillz3": "Javascript"
+    }
 ]
 
     

@@ -4,6 +4,11 @@ img {
     box-shadow: 0 0 20px 0 rgba(72, 94, 116, 0.7);
  }
 
+ .box-description-box{
+    margin-top: 10%;  
+    margin-bottom: 10%; 
+}
+
 
 
 /* Medium devices */
@@ -19,8 +24,7 @@ img {
         
         .box-description-box{
             width: 100%;
-         
-            
+            margin-top: 10%;   
         }
 
         .card-container{

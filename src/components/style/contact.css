@@ -9,17 +9,35 @@ i{
     font-size: 40px;   
 }
 
-@media(min-width:468px){
+@media(min-width:500px){
     .container-contact{
         display: flex; 
         justify-content: space-between;
-        margin-left: 25%;
-        margin-right: 25%;
-    
+        margin: 0;
+     
     }
 }
 
-   
+@media(min-width: 650px){
+    .container-contact{
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+}
+
+@media(min-width: 800px){
+    .container-contact{
+        margin-left: 25%;
+        margin-right: 25%;
+    }
+}
+
+@media(min-width: 1000px){
+    .container-contact{
+        margin-left: 30%;
+        margin-right: 30%;
+    }
+}
 
 .contact-box {
     flex-basis: 30%;
