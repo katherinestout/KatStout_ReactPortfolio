@@ -58,10 +58,7 @@
             "id": 14
         },
 
-        {
-            "skillz3": "Flexbox",
-            "id": 15
-        }, 
+     
      {
         "skillz3": "HTML5",
         "id": 16
@@ -85,6 +82,13 @@
     {
         "skillz3": "Javascript",
         "id": 21
+    },
+    {
+        "skillz3": "MySQL",
+        "id": 22
+    },   {
+        "skillz3": "Flexbox",
+        "id": 15
     }
 ]
 

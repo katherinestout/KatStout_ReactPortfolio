@@ -48,5 +48,15 @@
         "tools": " Javascript, jQuery, Bulma",
         "img": "screenshots/drinkerator.png"
 
+    },
+    {
+    "id": 6,
+    "name": "Ice Cream Shop",
+    "github": "https://github.com/katherinestout/MySQL_React_Node",
+    "deploy": "https://shrouded-tor-76235.herokuapp.com/",
+    "description": "A simple CRUD app, that implements MVC file structure.",
+    "tools": "React, Express, Node, MySQL, Fetch, CSS Grid, Javascript",
+    "img": "screenshots/icecream.png"
     }
+
 ]
