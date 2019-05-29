@@ -17,7 +17,7 @@ class About extends Component {
       <p>
         
         
-      I am a Full Stack Web Developer, 
+      I am a Full Stack / Front End Web Developer, 
       with a background in Design and Photography. 
       Upon graduating from Hood College in 2017, with my BA in Communications, 
       I started and ran my own photography business. 

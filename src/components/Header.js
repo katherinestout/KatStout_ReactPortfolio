@@ -44,7 +44,7 @@ Katherine Stout
   </div>
  
    <div className='name'>
-  Full Stack Web Developer
+  Front End Web Developer
 
      </div></h1>
 </div>
