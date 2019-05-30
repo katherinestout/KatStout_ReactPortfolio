@@ -17,7 +17,7 @@ const MyPortfolioCard = props => (
   <ul>
   <li>{props.description}</li>
   <li>{props.tools}</li>
-  <li><a href = {props.github}> GitHub / Code</a></li>
+  <li><a href = {props.github}> Link to GitHub Code</a></li>
   </ul>
   </div>
   </div>
