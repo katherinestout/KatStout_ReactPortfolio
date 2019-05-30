@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/KatStout_ReactPortfolio/static/js/runtime~main.a75921e5.js"
   },
   {
-    "revision": "7016cbc99687be79f646",
-    "url": "/KatStout_ReactPortfolio/static/js/main.7016cbc9.chunk.js"
+    "revision": "e55200ece96d8df6974e",
+    "url": "/KatStout_ReactPortfolio/static/js/main.e55200ec.chunk.js"
   },
   {
     "revision": "72ff7299dd5b90c494ad",
     "url": "/KatStout_ReactPortfolio/static/js/1.72ff7299.chunk.js"
   },
   {
-    "revision": "7016cbc99687be79f646",
+    "revision": "e55200ece96d8df6974e",
     "url": "/KatStout_ReactPortfolio/static/css/main.bd6f75ae.chunk.css"
   },
   {
-    "revision": "f9052bfe3ba272ab7204d35b40b1e5b4",
+    "revision": "604c306f3f5e1841203683bcb06d45ca",
     "url": "/KatStout_ReactPortfolio/index.html"
   }
 ];
